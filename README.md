@@ -1,5 +1,5 @@
 # This not my Full game Library App but a modified version without all my games and main features removed , so you can do what you want with the App \ Code
-i do plan on releasing full versionn with a bunch of games and more added to it but for now have fun uploading your own games and exe files.
+i do plan on releasing full versionn with a bunch of games and And all the key features added to it but for now have fun uploading your own games and exe files.
 
 ### opne source and free to do what you want with the code 
 ### Downlaod and open zip file or Clone this repository 

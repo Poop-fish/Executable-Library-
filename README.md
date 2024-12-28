@@ -15,15 +15,15 @@ Help Section: Provides guidance on how to use the application.
 Installation 
 
 ### Adding a Game
-In the "Upload Your Executable" section, fill in the following fields:
-
-https://github.com/user-attachments/assets/4ad358fa-38d5-4bfb-bfb4-f2bc522dc5ff
-
-
+In the "Upload Your Executable" section, fill in the following fields
 Game Name: Enter the name of your game.
+
 Executable Path: Browse to the EXE file you want to add.
+
 Assets Folder Path: Browse to the folder containing assets related to the game.
 Click "Add Game" to add the game to the Library.
+
+https://github.com/user-attachments/assets/4ad358fa-38d5-4bfb-bfb4-f2bc522dc5ff
 
 ### Playing a Game or lauching ExE file
 After adding a game, the name of the game will appear in the Library section.

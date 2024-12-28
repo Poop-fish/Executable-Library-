@@ -4,6 +4,9 @@ i do plan on releasing full versionn with a bunch of games and And all the key f
 ### opne source and free to do what you want with the code 
 ### Downlaod and open zip file or Clone this repository 
 
+pip installs:
+- pip install PySimpleGUI
+- 
 # Game Manager - Executable Library
 The Game Manager is a simple desktop application built using PySimpleGUI that allows users to manage their executable files (EXE files) and associated assets. It provides a user-friendly interface for adding games, playing them, and performing Google searches, all from within one application.
 

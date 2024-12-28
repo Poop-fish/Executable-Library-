@@ -38,11 +38,5 @@ To view the help instructions, click on the Help menu in the menu bar and select
 The help section will provide a step-by-step guide on how to use the application.
 
 ### Removing a Game
-To remove a game, simply delete the associated JSON file in the storage directory.
-The game will no longer appear in the Library section.
-
-
-
-
-https://github.com/user-attachments/assets/399d1f7d-c5ea-47b1-91de-c74ebabacd52
-
+To remove a game, simply delete the associated JSON file and games file that it creates in the directory.
+once deleted The game will no longer appear in the Library section.

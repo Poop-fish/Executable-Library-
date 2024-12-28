@@ -1,7 +1,8 @@
-# this not my Full game Library App but a modified version without all my games and main features removed so you can do what you want with he App 
-i do plan on relseing full versionn with a bunch of games and more added to it but for now have fun with this 
+# This not my Full game Library App but a modified version without all my games and main features removed so you can do what you want with he App 
+i do plan on releasing full versionn with a bunch of games and more added to it but for now have fun uploading yourn own games and exe files.
 
 ### opne source and free to do what you want with the code 
+### Downlaod and open zip file or Clone this repository 
 
 # Game Manager - Executable Library
 The Game Manager is a simple desktop application built using PySimpleGUI that allows users to manage their executable files (EXE files) and associated assets. It provides a user-friendly interface for adding games, playing them, and performing Google searches, all from within one application.
@@ -15,6 +16,9 @@ Installation
 
 ### Adding a Game
 In the "Upload Your Executable" section, fill in the following fields:
+
+https://github.com/user-attachments/assets/4ad358fa-38d5-4bfb-bfb4-f2bc522dc5ff
+
 
 Game Name: Enter the name of your game.
 Executable Path: Browse to the EXE file you want to add.
@@ -36,3 +40,9 @@ The help section will provide a step-by-step guide on how to use the application
 ### Removing a Game
 To remove a game, simply delete the associated JSON file in the storage directory.
 The game will no longer appear in the Library section.
+
+
+
+
+https://github.com/user-attachments/assets/399d1f7d-c5ea-47b1-91de-c74ebabacd52
+

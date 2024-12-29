@@ -3,7 +3,7 @@ i do plan on releasing full versionn with a bunch of games and And all the key f
  
 ### Downlaod and open zip file or Clone this repository 
 
-### this was made with Python and PysimpleGUI
+### this was made with Python and PysimpleGUI and runs on windows( i dont know if it runs a linux or mac it should)
 pip installs:
 - pip install PySimpleGUI
 - 

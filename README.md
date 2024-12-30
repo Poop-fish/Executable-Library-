@@ -1,12 +1,13 @@
 # This not my Full game Library App but a modified version with all my games and main features removed , so you can do what you want with the App \ Code
 i do plan on releasing full versionn with a bunch of games and And all the key features added to it but for now have fun uploading your own games and exe files.
  
-### Downlaod and open zip file or Clone this repository 
+### Downlaod and open zip file or Clone this repository and open it in your IDE 
 
-### this was made with Python and PysimpleGUI and runs on windows ( i dont know if it runs on linux or mac it should)
+### this was made with Python and PysimpleGUI and runs on windows ( i dont know if it runs on linux or mac , it should work just fine on them though)
 pip installs:
 - pip install PySimpleGUI
 - pip install pygame 
+
 # Game Manager - Executable Library
 The Game Manager is a simple desktop application built using PySimpleGUI that allows users to manage their executable files (EXE files) and associated assets. It provides a user-friendly interface for adding games, playing them, and performing Google searches, all from within one application.
 
